@@ -1,7 +1,7 @@
-# Image Similarity Detection using Resnet50
+# Image Similarity Detection using Resnet50 and Inception v3
 
 ## Introduction
-Given a batch of images, the program tries to find similarity between images using Resnet50 based feature vector extraction. 
+Given a batch of images, the program tries to find similarity between images using Resnet50 and Inception v3 based feature vector extraction. 
 
 ## Usage
 ``python kreas_resnet50.py`` will compare all the images present in ``images`` folder with each other and provide the most similar image for every image. 
